@@ -11,3 +11,5 @@ This is telling you that it is the first hotfix released after 5.5.5 but before 
 These patches are ONLY safe to run on a version that matches the first 3 numbers of the version.
 
 Versions such as 5.5.5.2 will ALWAYS be cumulative and contain everything from 5.5.5.1, so you do not need to apply multiple hotfixes.  Just grab the latest one.
+
+ONLY apply the code inside the hotfix folder, not the gitignore and readme files and any notes that sit outside of it.
